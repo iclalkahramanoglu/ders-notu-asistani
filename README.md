@@ -12,7 +12,7 @@ Bu proje, ders notlarınızı PDF formatında yükleyip, yapay zeka ile sorular�
 - 🤖 Ollama (Llama 3.2) ile yerel AI çalışır
 - 🔍 Qdrant vektör veritabanı ile hızlı arama
 - 💬 Streamlit ile kullanıcı dostu web arayüzü
-- 🍎 Mac M3 için optimize edilmiştir
+
 
 ## 🛠️ Teknolojiler
 
