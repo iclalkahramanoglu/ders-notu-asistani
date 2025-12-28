@@ -19,9 +19,7 @@ st.set_page_config(
 st.title("🎓 Ders Notu Analiz Asistanı")
 st.markdown("---")
 
-# ==============================
 # SİSTEM BAŞLATMA
-# ==============================
 
 @st.cache_resource
 def initialize_system():
@@ -121,9 +119,7 @@ agent = initialize_system()
 st.markdown("---")
 st.markdown("### 💬 Asistanınıza Soru Sorun")
 
-# ==============================
 # CHAT ARAYÜZÜ
-# ==============================
 
 # Chat geçmişi için session state
 if "messages" not in st.session_state:
@@ -174,9 +170,7 @@ if prompt := st.chat_input("Sorunuzu yazın... (örn: 'Python'da döngü nedir?'
                     "content": error_msg
                 })
 
-# ==============================
 # YAN PANEL - BİLGİLER
-# ==============================
 with st.sidebar:
     st.header("📖 Kullanım Kılavuzu")
     
