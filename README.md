@@ -1,4 +1,4 @@
-# 🎓 Ders Notu Analiz Asistanı
+#  Ders Notu Analiz Asistanı
 
 INP121 Projesi - RAG (Retrieval-Augmented Generation) Teknolojisi ile Ders Notu Asistanı
 
@@ -140,12 +140,3 @@ ollama list
 **Proje:** INP121 - Ders Notu Analiz Asistanı  
 **Tarih:** Aralık 2024
 
-## 📄Ön Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir.
-
-## 🙏 Teşekkürler
-
-- Agno Framework
-- Ollama
-- Streamlit
